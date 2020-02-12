@@ -1,0 +1,24 @@
+{
+	"name": "vy",
+	"version": "0.0.1",
+	"description": "Stream-first functional utils by @MKRhere",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/MKRhere/vy.git"
+	},
+	"keywords": [
+		"util",
+		"functional",
+		"stream"
+	],
+	"author": "Muthu Kumar <@MKRhere> (https://mkr.pw)",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/MKRhere/vy/issues"
+	},
+	"homepage": "https://github.com/MKRhere/vy#readme"
+}
